@@ -1,0 +1,14 @@
+[[source]]
+
+
+[[source]]
+
+
+[dev-packages]
+
+[packages]
+
+aknights_auto= {editable = true,path = "."}
+
+[requires]
+python_version = "3.6"
