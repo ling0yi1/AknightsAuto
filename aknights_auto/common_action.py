@@ -1,6 +1,8 @@
 import pyautogui
 import random
 
+
+
 loading_img = './auto_img/aknights/loading.png'
 action_blue_img = './auto_img/aknights/action_blue.png'
 action_red_img = './auto_img/aknights/action_red.png'
