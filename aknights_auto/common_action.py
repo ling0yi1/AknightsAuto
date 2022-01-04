@@ -1,7 +1,7 @@
 import pyautogui
 import random
 
-
+pyautogui.locateAllOnScreen()
 
 loading_img = './auto_img/aknights/loading.png'
 action_blue_img = './auto_img/aknights/action_blue.png'
