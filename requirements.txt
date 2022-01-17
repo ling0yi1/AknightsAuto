@@ -1,2 +1,2 @@
-airtest
-PyQt6
+pyautogui
+opencv-contrib-python
