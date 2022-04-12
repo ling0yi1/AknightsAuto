@@ -18,3 +18,6 @@ class MenuLevelConstant(object):
 
     power_down = 888
     level_up = 999
+
+class RecruitThings(object):
+    keywords = []
